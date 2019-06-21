@@ -1,0 +1,18 @@
+.ui-page-login,
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+.mui-content{height: 100%;}
+/*Ruby add to change color .mui-content {
+    background-color: #efeff4;*/
+body{background-color: #f2f2f2 !important;}
+.mui-content {
+    background-color: #f2f2f2;}
+.mui-btn-primary, input[type="submit"] {
+    color: #fff;
+    border: 1px solid #009688 !important;
+    background-color: #009688 !important;
+}
